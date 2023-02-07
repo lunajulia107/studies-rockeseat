@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+  }
+  
+  body {
+    background-color: #09090A;
+    color: white;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    /*São como pedacinhos*/
+    height: 100vh;
+  }
+  
+  
